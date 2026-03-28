@@ -1421,7 +1421,7 @@ MonoBehaviour:
   hitLayers:
     serializedVersion: 2
     m_Bits: 51
-  markerObj: {fileID: 4482581385464569494}
+  hitMarker: {fileID: 4482581385464569494}
 --- !u!120 &997214380
 LineRenderer:
   serializedVersion: 3

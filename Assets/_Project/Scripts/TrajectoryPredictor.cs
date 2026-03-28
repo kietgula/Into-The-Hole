@@ -11,10 +11,7 @@ namespace BasketballAudition
         public int resolution = 30;
         public float timeStep = 0.1f;
         public LayerMask hitLayers = Physics.DefaultRaycastLayers;
-        public GameObject markerObj;
-        
-        private GameObject hitMarker;
-        
+        public GameObject hitMarker;
 
         private void Awake()
         {
